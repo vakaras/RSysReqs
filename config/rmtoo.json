@@ -1,0 +1,67 @@
+{
+    "constraints": {
+        "search_dirs": [
+        ]
+    }, 
+    "global": {
+        "modules": {
+            "directories": [
+                "tools/apps/rmtoo"
+            ]
+        }
+    }, 
+    "processing": {
+        "analytics": {
+            "stop_on_errors": false
+        }
+    }, 
+    "requirements": {
+        "input": {
+            "commit_interval": {
+                "begin": "FILES", 
+                "end": "FILES"
+            }, 
+            "default_language": "lt_LT", 
+            "dependency_notation": [
+                "Solved by"
+            ], 
+            "directory": "content/requirements"
+        }, 
+        "inventors": [
+            "ReSoft"
+        ], 
+        "stakeholders": [
+            "ReSoft", 
+            "Customer",
+            "HCI"
+        ]
+    }, 
+    "topics": {
+        "ts_common": {
+            "directory": "content/topics", 
+            "name": "ReqsDocument", 
+            "output": {
+                "graph": [
+                    {
+                        "output_filename": "dist/req-graph1.dot"
+                    }
+                ], 
+                "graph2": [
+                    {
+                        "output_filename": "dist/req-graph2.dot"
+                    }
+                ], 
+                "latex2": [
+                    {
+                        "output_filename": "dist/reqtopics.tex"
+                    }
+                ],
+                "prios": [
+                    {
+                        "output_filename": "dist/reqsprios.tex"
+                    }
+                ]
+            }
+        }
+    }
+}

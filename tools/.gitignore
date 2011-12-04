@@ -1,0 +1,7 @@
+.installed.cfg
+.mr.developer.cfg
+bootstrap.py
+apps/
+bin/
+develop-eggs/
+parts/

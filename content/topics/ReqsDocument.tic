@@ -1,0 +1,7 @@
+Name: Example Topic
+Text: This is an indrocution to the Example Topic.
+Text:
+  The text appears between the SomeMoreDetails
+  topic and the requirements themselves.
+IncludeRequirements: full
+Text: The text after the requirements.
