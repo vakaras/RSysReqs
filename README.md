@@ -2,8 +2,8 @@
 
 Norint ją susikompiliuoti, reikia:
 
-  cd tools
-  make
-  cd ..
-  make
-  make show
+    cd tools
+    make
+    cd ..
+    make
+    make show
