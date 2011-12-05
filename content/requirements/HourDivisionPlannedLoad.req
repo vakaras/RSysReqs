@@ -1,0 +1,15 @@
+Name: Padalinių planuojamos apkrovos analizė pagal valandas
+Type: requirement
+Invented on: 2011-12-05
+Invented by: ReSoft
+Description:
+  Turi būti galimybė gauti padalinių apkrovimo pokytį pagal
+  paraiškų apdorojimui skirtą valandų kiekį, kurį sukeltų
+  planuojamos paramos priemonės.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:8

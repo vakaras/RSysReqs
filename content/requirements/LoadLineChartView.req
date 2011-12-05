@@ -1,0 +1,12 @@
+Name: Apkrovos peržiūra linijinėje diagramoje
+Type: design decision
+Invented on: 2011-12-05
+Invented by: ReSoft
+Description:
+  Turi būti galimybė pamatyti apkrovos duomenis linijinės diagramos
+  pavidalu.
+Owner: HCI
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8

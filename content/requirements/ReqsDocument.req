@@ -1,13 +1,14 @@
-Name: Example Requirement
+Name: Sukurti sistemą
 Type: master requirement
-Invented on: 2010-02-14
+Invented on: 2011-12-04
 Invented by: ReSoft
 Description:
-  The example application must use TCP/IP for communication with the 
-  database instance.
-Rationale:
-  Here are some reasons why this must be
-  implemented in this way.
+  Sukurti sistemą paramą administruojančiai organizacijai.
 Owner: Customer
 Status: not done
 Topic: ReqsDocument
+Class: detailable
+Priority: Customer:5
+Solved by:
+  MandatoryFunctionality
+  NonMandatoryFunctionality

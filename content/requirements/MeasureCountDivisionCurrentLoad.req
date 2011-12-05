@@ -1,0 +1,14 @@
+Name: Padalinių apkrovos analizė pagal kiekį
+Type: requirement
+Invented on: 2011-12-04
+Invented by: ReSoft
+Description:
+  Turi būti galimybė gauti padalinių apkrovimą pagal apdorotą per mėnesį
+  paraiškų skaičių.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8

@@ -1,7 +1,7 @@
-Name: Example Topic
-Text: This is an indrocution to the Example Topic.
+Name: Reikalavimų specifikacija.
 Text:
-  The text appears between the SomeMoreDetails
-  topic and the requirements themselves.
+  Žemiau yra pateikiami reikalavimai tiesiogiai priklausantys šiam
+  skyriui. Po to pateikiami reikalavimai suskirstyti į poskyrius.
 IncludeRequirements: full
-Text: The text after the requirements.
+SubTopic: FunctionalRequirements
+SubTopic: NonFunctionalRequirements

@@ -1,0 +1,14 @@
+Name: Informacinių sistemų apkrovos analizė pagal valandas
+Type: requirement
+Invented on: 2011-12-04
+Invented by: ReSoft
+Description:
+  Turi būti galimybė gauti informacinių sistemų apkrovimą pagal paraiškų
+  apdorojimui panaudotas valandas.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8

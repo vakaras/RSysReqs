@@ -1,0 +1,12 @@
+Name: Apkrovos peržiūros detalumo pasirinkimas
+Type: design decision
+Invented on: 2011-12-05
+Invented by: ReSoft
+Description:
+  Turi būti galimybė pasirinkti kokiu detalumu rodyti duomenis:
+  metai, ketvirčiai, mėnesiai, savaitės.
+Owner: HCI
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8

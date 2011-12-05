@@ -1,0 +1,12 @@
+Name: Apkrovos peržiūros intervalo pasirinkimas
+Type: design decision
+Invented on: 2011-12-05
+Invented by: ReSoft
+Description:
+  Turi būti galimybė pasirinkti kokio intervalo apkrovos duomenis
+  norima peržiūrėti.
+Owner: HCI
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8

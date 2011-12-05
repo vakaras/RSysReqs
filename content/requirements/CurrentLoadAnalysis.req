@@ -1,0 +1,24 @@
+Name: Esamos apkrovos analizė
+Type: requirement
+Invented on: 2011-12-04
+Invented by: ReSoft
+Description:
+  Pateikti priemones, leidžiančias analizuoti esamą apkrovą.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:8
+Solved by:
+  MeasureCountDivisionCurrentLoad
+  MeasureCountSystemCurrentLoad
+  HourDivisionCurrentLoad
+  HourSystemCurrentLoad
+  LoadTableView
+  LoadBarChartView
+  LoadLineChartView
+  LoadExport
+  LoadChooseInterval
+  LoadChooseMinuteness

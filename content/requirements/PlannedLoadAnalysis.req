@@ -1,0 +1,27 @@
+Name: Planuojamos apkrovos analizė
+Type: requirement
+Invented on: 2011-12-04
+Invented by: ReSoft
+Description:
+  Pateikti priemones, leidžiančias analizuoti planuojamų paramos
+  priemonių poveikį apkrovoms pagal istorinius duomenis ir planuojamos
+  priemonės prognozuojamus kiekius.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:8
+Solved by:
+  MeasureCountDivisionPlannedLoad
+  MeasureCountSystemPlannedLoad
+  HourDivisionPlannedLoad
+  HourSystemPlannedLoad
+  EnterPlannedMeasureData
+  LoadTableView
+  LoadBarChartView
+  LoadLineChartView
+  LoadExport
+  LoadChooseInterval
+  LoadChooseMinuteness

@@ -1,0 +1,16 @@
+Name: Privalomas funkcionalumas
+Type: requirement
+Invented on: 2011-12-04
+Invented by: ReSoft
+Description:
+  Funkcionalumas, kuris yra būtinas.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:8
+Solved by:
+  CurrentLoadAnalysis
+  PlannedLoadAnalysis

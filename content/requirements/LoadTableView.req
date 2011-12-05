@@ -1,0 +1,11 @@
+Name: Apkrovos peržiūra lentelėje
+Type: design decision
+Invented on: 2011-12-05
+Invented by: ReSoft
+Description:
+  Turi būti galimybė pamatyti apkrovos duomenis lentelės pavidalu.
+Owner: HCI
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:8
