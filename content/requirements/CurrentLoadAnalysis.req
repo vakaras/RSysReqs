@@ -3,9 +3,12 @@ Type: requirement
 Invented on: 2011-12-04
 Invented by: ReSoft
 Description:
-  Pateikti priemones, leidžiančias analizuoti esamą apkrovą.
+  Pateikti priemones, leidžiančias analizuoti esamą ir prognozuojamą
+  apkrovą (prognozavimo horizontas – ne mažiau 12 mėnesių).
 Rationale:
-  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“. Patikslintas
+  laiške „[Fwd: Studentų grupiniai projektai: užduoties patikslinimas]“
+  atsiųstame „Wed, 28 Sep 2011 13:17:46 +0300“.
 Owner: Customer
 Status: not done
 Topic: FunctionalRequirements
