@@ -1,0 +1,14 @@
+Name: Informacijos importavimas iš XLS
+Type: requirement
+Invented on: 2011-12-07
+Invented by: ReSoft
+Description:
+  Turi būti galimybė importuoti duomenis iš *.xls failų.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Klausimai uzsakovui“, kuris buvo
+  gautas „2011 m. rugsėjis 21 d. 17:19“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: implementable
+Priority: Customer:5

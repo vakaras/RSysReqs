@@ -1,0 +1,19 @@
+Name: Duomenų importavimas
+Type: design decision
+Invented on: 2011-12-07
+Invented by: ReSoft
+Description:
+  Visus duomenis turi būti galimybė importuoti.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  MeasureGroupImport
+  MeasureImport
+  DivisionImport
+  SystemImport
+  SystemUsedByDivisionImport
+  MeasureProcessedByDivisionImport
+  MeasuresHistoryDataImport
