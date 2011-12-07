@@ -1,0 +1,15 @@
+Name: Mažiausios apkrovos intervalo radimas
+Type: design decision
+Invented on: 2011-12-07
+Invented by: ReSoft
+Description:
+  Turi būti galimybė rasti norimo ilgio intervalą, kurio metu
+  būtų mažiausia padalinio (informacinės sistemos) apkrova.
+Note:
+  Turi būti galimybė skirtingiems metų laikams nurodyti skirtingo
+  ilgio ieškomus intervalus.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:5

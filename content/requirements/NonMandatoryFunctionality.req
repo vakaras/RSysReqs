@@ -9,3 +9,11 @@ Status: not done
 Topic: FunctionalRequirements
 Class: detailable
 Priority: Customer:3
+Solved by:
+  MeasuresHistoryDataImport
+  MeasuresHistoryDataEnter
+  LoadBarChartView
+  LoadLineChartView
+  FindSystemUpdateInterval
+  FindDivisionQualificationUpgradeInterval
+  FindDivisionRepairInterval

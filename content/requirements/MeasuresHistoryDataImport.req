@@ -1,0 +1,13 @@
+Name: Paraiškų istorinių duomenų importavimas
+Type: requirement
+Invented on: 2011-12-07
+Invented by: ReSoft
+Description:
+  Turi būti galimybė importuoti paraiškų istorinius duomenis.
+Rationale:
+  Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:5
