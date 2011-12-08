@@ -1,0 +1,18 @@
+Name: Apkrovos prognozė
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Sistema turi sugebėti atlikti prognozę remdamasi vien tik turimais
+  istoriniais duomenimis.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - Klausimai užsakovui“
+  atsiųstame „Tue, 11 Oct 2011 08:18:47 +0300“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  MeasureLoadFluctuationForecast
+  MeasureLoadChangeForecast

@@ -1,0 +1,16 @@
+Name: Duomenų apsaugos modelis
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Prie duomenų turi būti galimybė prieiti tik konkretiems naudotojams,
+  kurie savo tapatybę patvirtina pateikdami naudotojo vardą ir
+  slaptažodį.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - Klausimai užsakovui“,
+  kuris buvo gautas „Tue, 11 Oct 2011 08:18:47 +0300“.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5

@@ -1,0 +1,18 @@
+Name: Maksimalūs informacinių sistemų kiekis
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Sistema turi sugebėti efektyviai veikti, kai yra ne mažiau, kaip
+  30 informacinių sistemų.
+Note:
+  Laikoma, kad sistema veikia efektyviai, jei į kiekvieną užklausą
+  atsako greičiau nei per 3 sekundes.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - Klausimai užsakovui“,
+  kuris buvo gautas „Tue, 11 Oct 2011 08:18:47 +0300“.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5

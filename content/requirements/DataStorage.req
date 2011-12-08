@@ -1,0 +1,14 @@
+Name: Duomenų saugojimo apribojimai
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Apribojimai, susiję su duomenų saugojimu, kuriuos turi tenkinti sistema.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  ServerDataStorage
+  ServerDataAccess

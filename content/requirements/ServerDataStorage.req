@@ -1,0 +1,14 @@
+Name: Duomenys saugomi serveryje
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Įvesti duomenys turi būti saugomi nutolusiame serveryje.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - Klausimai užsakovui“,
+  kuris buvo gautas „Tue, 11 Oct 2011 08:18:47 +0300“.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
