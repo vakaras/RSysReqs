@@ -1,0 +1,20 @@
+Name: Naudotojų administravimas
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Turi būti galimybė administruoti naudotojų paskyras.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - klausimai užsakovui“,
+  kuris buvo gautas „Wed, 23 Nov 2011 15:41:13 +0200“.
+Owner: Customer
+Status: not done
+Topic: FunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  ChangeUserPermissions
+  AddUser
+  ChangeSelfPassword
+  ChangeUserPassword
+  RemoveUser

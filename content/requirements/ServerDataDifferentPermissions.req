@@ -17,3 +17,8 @@ Status: not done
 Topic: NonFunctionalRequirements
 Class: detailable
 Priority: Customer:5
+Solved by:
+  ReadOnlyDataPermission
+  ReadWriteDataPermission
+  ImportDataPermission
+  AdministrateUsersPermission

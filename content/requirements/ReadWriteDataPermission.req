@@ -1,0 +1,15 @@
+Name: Duomenys skaitymui ir rašymui
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Turi būti galimybė nurodyti, kad konkretus naudotojas gali duomenis
+  ne tik peržiūrėti, bet ir keisti.
+Rationale:
+  Šis reikalavimas pateiktas laiške „Re: ReSoft - klausimai užsakovui“,
+  kuris buvo gautas „Wed, 23 Nov 2011 15:41:13 +0200“.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
