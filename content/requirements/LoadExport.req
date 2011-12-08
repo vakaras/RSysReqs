@@ -7,8 +7,11 @@ Description:
 Rationale:
   Šis reikalavimas pateiktas faile „SGPuzduotis2011.doc“: „leidžiančias
   pateikti ataskaitoje“.
+  Laiške „Re: ReSoft - Klausimai užsakovui“ gautame
+  „Thu, 13 Oct 2011 08:52:45 +0300“ paminėta, kad toks funkcionalumas
+  nėra būtinas.
 Owner: Customer
 Status: not done
 Topic: FunctionalRequirements
 Class: detailable
-Priority: Customer:8
+Priority: Customer:3

@@ -14,3 +14,5 @@ Status: not done
 Topic: NonFunctionalRequirements
 Class: detailable
 Priority: Customer:5
+Solved by:
+  ServerDataDifferentPermissions
