@@ -1,0 +1,23 @@
+Name: Pranešimų tipai
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistemos pateikiami pranešimai gali būti 4 skirtingų tipų:
+  informacinio pobūdžio, perspėjimo, klaidų ir kritiniai.
+Note:
+  Informacinis pranešimas praneša apie sistemos įvykį. Pavyzdžiui,
+  „duomenys iš failo buvo sėkmingai importuoti“.
+  Perspėjimo pranešimas praneša apie klaidą, kurią sistemai pavyko
+  ištaisyti. Pavyzdžiui, „sistemos vardas turi prasidėti didžiąja
+  raide. Pakeista“.
+  Klaidos pranešimas praneša apie įvykusią darbo klaidą. Pavyzdžiui,
+  „Duomenų failo eilutės X stulpelyje Y buvo tikėtasi datos formatu
+  „metai-mėnuo-diena“. Vietoje to buvo rastas skaičius“.
+  Kritinis pranešimas praneša apie įvykusią sistemos klaidą. Pavyzdžiui,
+  „nepavyko aktyvuoti komunikacijos su duomenų baze modulio“.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

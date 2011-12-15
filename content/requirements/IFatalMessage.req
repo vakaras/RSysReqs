@@ -1,0 +1,14 @@
+Name: Techninė informacija kritinio pobūdžio pranešimuose
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Kritinio pobūdžio pranešimuose turi būti galimybė peržiūrėti
+  techninę klaidos priežasties informaciją, kuria naudodamasis
+  sistemos administratorius galėtų identifikuoti ir pašalinti
+  įvykusią problemą.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

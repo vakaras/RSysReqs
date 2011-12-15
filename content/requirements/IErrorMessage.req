@@ -1,0 +1,12 @@
+Name: Klaidos priežasties nurodymas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Klaidos pobūdžio pranešimuose turi būti nurodyta galima klaidos
+  priežastis.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

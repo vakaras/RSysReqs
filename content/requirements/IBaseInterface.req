@@ -1,0 +1,18 @@
+Name: Bazinė sąsaja
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistemoje turi būti sąsaja iš kurios galima pasiekti visas kitas
+  sąsajas bei atsijungti nuo sistemos.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  ITabs
+  IBaseInterfaceLayout
+  IBaseInterfaceMessages
+  IBaseInterfaceMenu
+  IBaseInterfaceToolbar

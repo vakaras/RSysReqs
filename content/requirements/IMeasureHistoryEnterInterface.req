@@ -1,0 +1,12 @@
+Name: Istorinių duomenų įvedimo sąsaja
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistemoje turi būti sąsaja, kuria naudojantis galima įvesti istorinę
+  informaciją apie suadministruotas paraiškas.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

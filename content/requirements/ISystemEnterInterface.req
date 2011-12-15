@@ -1,0 +1,12 @@
+Name: Informacinių sistemų įvedimo sąsaja
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistemoje turi būti sąsaja, kuria naudojantis galima įvesti informaciją
+  apie informacines sistemas.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

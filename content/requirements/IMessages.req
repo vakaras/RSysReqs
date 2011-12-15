@@ -1,0 +1,17 @@
+Name: Pranešimų formulavimo reikalavimai
+Type: requirement
+Invented on: 2011-12-14
+Invented by: ReSoft
+Description:
+  Pranešimų formulavimui yra keliami reikalavimai.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  IMessageType
+  IMessageTypeIcon
+  IErrorMessage
+  IFatalMessage
+  IMessageRegistry

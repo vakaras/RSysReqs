@@ -1,0 +1,12 @@
+Name: Stulpelių plotis lentelėse
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Visose naudotojo sąsajos lentelėse turi būti galimybė keisti stulpelių
+  plotį.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

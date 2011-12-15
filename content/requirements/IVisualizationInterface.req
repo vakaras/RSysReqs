@@ -1,0 +1,11 @@
+Name: Prisijungimo sąsaja
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Turi būti sąsaja, per kurią galima būtų prisijungti prie sistemos.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

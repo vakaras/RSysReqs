@@ -1,0 +1,11 @@
+Name: Sistemos pranešimai
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Visų tipų pranešimai turi būti pateikiami bazinėje sąsajoje.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

@@ -1,0 +1,13 @@
+Name: Sąsajos individualizavimo reikalavimai
+Type: requirement
+Invented on: 2011-12-14
+Invented by: ReSoft
+Description:
+  Turi būti galimybė individualizuoti sąsają.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  IHideToolbar

@@ -1,0 +1,12 @@
+Name: Rezultatų automatinis atnaujinimas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Bet kurioje lentelėje pakeitus pradinius duomenis, sistema turi
+  automatiškai atnaujinti atitinkamas rezultatų lenteles ir grafikus.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

@@ -1,0 +1,12 @@
+Name: Padalinių naudojamų informacinių sistemų įvedimo sąsaja
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistemoje turi būti sąsaja, kuria naudojantis galima būtų nurodyti,
+  kokie padaliniai, kokias informacines sistemas naudoja.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

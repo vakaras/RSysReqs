@@ -1,0 +1,12 @@
+Name: Pranešimų žurnalas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Visi naudotojui pateikiami pranešimai kartu su jų pateikimo laiku
+  ir kontekstu turi būti saugomi pranešimų žurnale.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

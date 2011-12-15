@@ -1,0 +1,11 @@
+Name: Duomenų pateikimas sistemai
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Duomenys sistemai turi būti pateikiami naudojantis pele ir klaviatūra.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

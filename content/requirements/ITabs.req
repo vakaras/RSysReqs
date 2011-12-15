@@ -1,0 +1,12 @@
+Name: Pagrindinių sistemos naudotojo sąsajų pateikimas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Kiekviena iš pagrindinių sistemos naudotojo sąsajų turi būti pateikiama
+  vienoje arba keliose bazinės sąsajos kortelėse.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5

@@ -1,0 +1,12 @@
+Name: Sąsajos atitikimas operacinės sistemos išvaizdai
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Naudotojo sąsaja turi atitikti tos operacinės sistemos išvaizdą, kurioje
+  dirba taikomoji aplikacija.
+Owner: Customer
+Status: not done
+Topic: InterfaceRequirements
+Class: implementable
+Priority: Customer:5
