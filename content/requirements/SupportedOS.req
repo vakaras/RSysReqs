@@ -1,0 +1,11 @@
+Name: Palaikomos operacinės sistemos
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Programa turi veikti Windows x86 ir Ubuntu x86\_64 operacinėse sistemose.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

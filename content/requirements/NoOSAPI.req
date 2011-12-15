@@ -1,0 +1,14 @@
+Name: Operacinės sistemos ABI naudojimas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Programa neturi tiesiogiai naudoti jokių operacinės sistemos ABI.
+Note:
+  Visas funkcionalumas turi būti pasiektas naudojant aukštesnius
+  abstrakcijos lygmenis – bibliotekas.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

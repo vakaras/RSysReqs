@@ -1,0 +1,14 @@
+Name: Sąveika su operacine sistema
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Yra reikalavimai ribojantis programos sąveiką su operacine sistema.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  SupportedOS
+  NoOSAPI
