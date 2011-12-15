@@ -1,0 +1,13 @@
+Name: Tikslumo reikalavimai
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Apribojimai, susiję su sistemos atliekamų skaičiavimų tikslumu.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  LoadCalcPrecision

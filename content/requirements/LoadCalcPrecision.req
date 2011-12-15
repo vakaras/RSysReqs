@@ -1,0 +1,12 @@
+Name: Apkrovų skaičiavimo tikslumas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistema turi skaičiuoti apkrovas ne mažesniu, nei 0,01 valandos
+  tikslumu.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5
