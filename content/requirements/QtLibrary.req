@@ -1,0 +1,11 @@
+Name: Qt karkaso naudojimas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistema turi būti sukurta naudojant Qt karkasą.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

@@ -1,0 +1,11 @@
+Name: Atviro kodo bibliotekų naudojimas
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Kuriant sistemą galima naudoti tik atviro kodo bibliotekas.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

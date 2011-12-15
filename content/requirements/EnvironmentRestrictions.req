@@ -1,0 +1,16 @@
+Name: Programavimo aplinkos apribojimai
+Type: requirement
+Invented on: 2011-12-08
+Invented by: ReSoft
+Description:
+  Apribojimai, susiję su sistemos kūrimo aplinka.
+Note:
+  Aplinka, tai kūrimui naudojamos bibliotekos.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: detailable
+Priority: Customer:5
+Solved by:
+  QtLibrary
+  OpenSourceLibraries
