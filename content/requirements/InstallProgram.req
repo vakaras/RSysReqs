@@ -1,0 +1,15 @@
+Name: Sistemos įrašymo programa
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Windows operacinei sistemai turi būti pateikta sistemos įrašymo
+  programa.
+Note:
+  Programa turi sugebėti visas trūkstamas bibliotekas, kurių reikia
+  sistemos veikimui, įdiegti pati.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5
