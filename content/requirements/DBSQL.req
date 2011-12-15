@@ -1,0 +1,12 @@
+Name: Komunikacija su duomenų baze
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Programa su duomenų bazės valdymo sistema turi bendrauti SQL
+  užklausų kalba.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

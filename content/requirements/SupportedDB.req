@@ -1,0 +1,12 @@
+Name: Palaikomos duomenų bazių valdymo sistemos
+Type: requirement
+Invented on: 2011-12-15
+Invented by: ReSoft
+Description:
+  Sistema turi sugebėti dirbti su PostgreSQL ir SQLite duomenų bazių
+  valdymo sistemomis.
+Owner: Customer
+Status: not done
+Topic: NonFunctionalRequirements
+Class: implementable
+Priority: Customer:5

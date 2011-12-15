@@ -12,3 +12,6 @@ Priority: Customer:5
 Solved by:
   ServerDataStorage
   ServerDataAccess
+  DBSQL
+  SupportedDB
+  OfflineMode
