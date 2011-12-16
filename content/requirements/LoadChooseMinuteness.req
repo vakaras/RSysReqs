@@ -6,7 +6,7 @@ Description:
   Turi būti galimybė pasirinkti kokiu detalumu rodyti duomenis:
   metai, ketvirčiai, mėnesiai, savaitės.
 Owner: HCI
-Status: not done
+Status: finished
 Topic: FunctionalRequirements
 Class: implementable
 Priority: Customer:8

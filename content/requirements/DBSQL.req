@@ -6,7 +6,7 @@ Description:
   Programa su duomenų bazės valdymo sistema turi bendrauti SQL
   užklausų kalba.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

@@ -5,7 +5,7 @@ Invented by: ReSoft
 Description:
   Turi būti sąsaja, per kurią galima būtų prisijungti prie sistemos.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

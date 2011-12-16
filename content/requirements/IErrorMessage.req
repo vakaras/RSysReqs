@@ -6,7 +6,7 @@ Description:
   Klaidos pobūdžio pranešimuose turi būti nurodyta galima klaidos
   priežastis.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

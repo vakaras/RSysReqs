@@ -6,7 +6,7 @@ Description:
   Bet kurioje lentelėje pakeitus pradinius duomenis, sistema turi
   automatiškai atnaujinti atitinkamas rezultatų lenteles ir grafikus.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

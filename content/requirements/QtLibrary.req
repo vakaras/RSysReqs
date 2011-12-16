@@ -5,7 +5,7 @@ Invented by: ReSoft
 Description:
   Sistema turi būti sukurta naudojant Qt karkasą.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

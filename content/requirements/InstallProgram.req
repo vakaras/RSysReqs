@@ -9,7 +9,7 @@ Note:
   Programa turi sugebėti visas trūkstamas bibliotekas, kurių reikia
   sistemos veikimui, įdiegti pati.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

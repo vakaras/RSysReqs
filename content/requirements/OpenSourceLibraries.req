@@ -5,7 +5,7 @@ Invented by: ReSoft
 Description:
   Kuriant sistemą galima naudoti tik atviro kodo bibliotekas.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

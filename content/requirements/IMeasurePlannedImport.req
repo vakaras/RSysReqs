@@ -6,7 +6,7 @@ Description:
   Turi būti galimybė planuojamus paraiškų kiekius importuoti bet kuriuo
   metu.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

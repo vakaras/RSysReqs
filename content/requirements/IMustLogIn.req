@@ -6,7 +6,7 @@ Description:
   Prieš pradėdamas dirbti su sistema, naudotojas turi prie jos
   prisijungti per tam skirtą sąsają.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

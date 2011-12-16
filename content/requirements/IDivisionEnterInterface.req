@@ -6,7 +6,7 @@ Description:
   Sistemoje turi būti sąsaja, kuria naudojantis galima įvesti informaciją
   apie padalinius.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

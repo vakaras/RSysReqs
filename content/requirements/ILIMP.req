@@ -6,7 +6,7 @@ Description:
   Visos užduotys turi būti formuluojamos naudojantis LIMP (langas, ikona
   meniu ir pelė) sąsajos priemonėmis.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

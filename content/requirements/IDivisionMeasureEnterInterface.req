@@ -7,7 +7,7 @@ Description:
   valandų kainuoja konkrečios priemonės suadministravimas kiekvienam
   iš padalinių.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

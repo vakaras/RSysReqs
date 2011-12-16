@@ -5,7 +5,7 @@ Invented by: ReSoft
 Description:
   Programa turi veikti Windows x86 ir Ubuntu x86\_64 operacinėse sistemose.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

@@ -6,7 +6,7 @@ Description:
   Grafinėje naudotojo sąsajoje pateikiamas tekstas ir pranešimai turi būti
   UTF-8 arba UTF-16 koduotėje.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

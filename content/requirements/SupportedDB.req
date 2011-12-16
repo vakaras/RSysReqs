@@ -6,7 +6,7 @@ Description:
   Sistema turi sugebėti dirbti su PostgreSQL ir SQLite duomenų bazių
   valdymo sistemomis.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

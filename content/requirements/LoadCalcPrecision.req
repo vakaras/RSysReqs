@@ -6,7 +6,7 @@ Description:
   Sistema turi skaičiuoti apkrovas ne mažesniu, nei 0,01 valandos
   tikslumu.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

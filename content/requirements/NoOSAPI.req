@@ -8,7 +8,7 @@ Note:
   Visas funkcionalumas turi būti pasiektas naudojant aukštesnius
   abstrakcijos lygmenis – bibliotekas.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

@@ -17,7 +17,7 @@ Note:
   Kritinis pranešimas praneša apie įvykusią sistemos klaidą. Pavyzdžiui,
   „nepavyko aktyvuoti komunikacijos su duomenų baze modulio“.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

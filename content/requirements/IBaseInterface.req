@@ -6,7 +6,7 @@ Description:
   Sistemoje turi būti sąsaja iš kurios galima pasiekti visas kitas
   sąsajas bei atsijungti nuo sistemos.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: detailable
 Priority: Customer:5

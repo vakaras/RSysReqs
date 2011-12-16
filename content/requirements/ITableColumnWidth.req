@@ -6,7 +6,7 @@ Description:
   Visose naudotojo sąsajos lentelėse turi būti galimybė keisti stulpelių
   plotį.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

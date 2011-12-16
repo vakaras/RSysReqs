@@ -6,7 +6,7 @@ Description:
   Turi būti galimybė dirbti neprisijungus prie nuotolinio duomenų bazės
   serverio.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: NonFunctionalRequirements
 Class: implementable
 Priority: Customer:5

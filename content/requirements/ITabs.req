@@ -6,7 +6,7 @@ Description:
   Kiekviena iš pagrindinių sistemos naudotojo sąsajų turi būti pateikiama
   vienoje arba keliose bazinės sąsajos kortelėse.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

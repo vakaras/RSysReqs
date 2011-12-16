@@ -6,7 +6,7 @@ Description:
   Visi naudotojui pateikiami pranešimai kartu su jų pateikimo laiku
   ir kontekstu turi būti saugomi pranešimų žurnale.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5

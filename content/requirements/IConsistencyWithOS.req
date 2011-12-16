@@ -6,7 +6,7 @@ Description:
   Naudotojo sąsaja turi atitikti tos operacinės sistemos išvaizdą, kurioje
   dirba taikomoji aplikacija.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: implementable
 Priority: Customer:5
