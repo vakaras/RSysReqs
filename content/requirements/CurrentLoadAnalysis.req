@@ -11,7 +11,7 @@ Rationale:
   „[Fwd: Studentų grupiniai projektai: užduoties patikslinimas]“
   atsiųstame „Wed, 28 Sep 2011 13:17:46 +0300“.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: FunctionalRequirements
 Class: detailable
 Priority: Customer:8
@@ -23,7 +23,6 @@ Solved by:
   LoadTableView
   LoadBarChartView
   LoadLineChartView
-  LoadExport
   LoadChooseInterval
   LoadChooseMinuteness
   LoadForecast

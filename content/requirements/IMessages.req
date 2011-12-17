@@ -5,13 +5,12 @@ Invented by: ReSoft
 Description:
   Pranešimų formulavimui yra keliami reikalavimai.
 Owner: Customer
-Status: not done
+Status: finished
 Topic: InterfaceRequirements
 Class: detailable
 Priority: Customer:5
 Solved by:
   IMessageType
-  IMessageTypeIcon
   IErrorMessage
   IFatalMessage
   IMessageRegistry
